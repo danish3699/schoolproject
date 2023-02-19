@@ -8,8 +8,6 @@ const onbulb=() => {
 }
 
 
-
-
           //    //1ST METHOD
 
 
@@ -65,8 +63,6 @@ const onbulb=() => {
 
 
         //      //3RD METHOD
-
-
 
 
 
