@@ -1,17 +1,26 @@
-          //  sum of two values 
+
+//  sum of two values 
 
 // function dani(a,b) {
 //     console.log(a+b)
 // }
 // dani(10,15)
 
+
+
+
+
              // check how many days of your age
 
-// function checkage(age) {
+
+             // function checkage(age) {
 //     console.log("total days of your age : "+age*365)
 // }
 
 // checkage(20)
+
+
+
 
 
 
