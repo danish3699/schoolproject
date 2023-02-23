@@ -1,4 +1,28 @@
+                                   //     // first project    
 
+// function getfirstvalue(value1) {
+//            console.log(value1)  
+// }
+
+// getfirstvalue(10,14,17)
+// getfirstvalue(11,14,17)
+ 
+
+
+                                       //   //  2nd project
+    
+
+// function givesomething(adding) {
+//    console.log("something "+adding)
+// }
+// givesomething("is happen hamza")
+// givesomething("is not happen")
+
+
+
+
+                                      //// 3rd project
+ 
 //  sum of two values 
 
 // function dani(a,b) {
@@ -8,7 +32,7 @@
 
 
 
-
+     // // 4th project
 
              // check how many days of your age
 
@@ -21,6 +45,7 @@
 
 
 
+          //         //5th project
 
 
 
@@ -40,6 +65,7 @@
 // }
 
 
+            //   // 6th project
 
 
   //check even and odd number
